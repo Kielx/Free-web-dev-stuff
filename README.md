@@ -6,3 +6,5 @@ In this repo, I will be adding stuff that I stumbled upon my web dev journey tha
 - [How to achieve 100% lighthouse scores with embedded google maps](https://www.corewebvitals.io/pagespeed/google-maps-100-percent-pagespeed)
 - [CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp) - usefull for hover states over svg images
 - [Free svg patterns](https://www.heropatterns.com/)
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
+- [Tailwind Kit](https://www.tailwind-kit.com/)
